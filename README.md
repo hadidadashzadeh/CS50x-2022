@@ -2,7 +2,7 @@
 
 - [Course Website](https://cs50.harvard.edu/x/2022/)  
 - [My Certificate](https://cs50.harvard.edu/certificates/0d4633ab-3935-4eb3-9a30-62f9a6f117ab)  
-- [Final Project Repository]([https://github.com/hadidadashzade/ai-flashcards)
+- [Final Project Repository]([https://github.com/hadidadashzadeh/ai-flashcards)
 
 ---
 
@@ -89,7 +89,7 @@ Completed:
 
 ### Week 10 – Emoji (Final Project)  
 Completed:  
-- [Volume Control with Hand Detection](https://github.com/hadidadashzade)
+- [Volume Control with Hand Detection](https://github.com/hadidadashzadeh)
 
 ---
 
